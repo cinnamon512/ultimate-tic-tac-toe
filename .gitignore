@@ -67,3 +67,15 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+#ADDED these from instructions
+
+# IDE files
+.vscode/
+.idea/
+cmake-build-*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
